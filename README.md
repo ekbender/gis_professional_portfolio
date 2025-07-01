@@ -17,6 +17,9 @@ For a class project, I chose to explore several key gentrification factors in my
 [Write-up](gentrification-eda-mke/final_paper.pdf) and [SQL queries](gentrification-eda-mke/final_queries.sql)
 
 ### Wild Rice Detection using Synthetic Aperture Radar (SAR) Imagery in Northwestern Minnesota
-This project allowed me to challenge myself, using data I was unfamiliar with and software I had no prior experience with. By the end of it, I can say that I have experience with Google Earth Engine, and the complex pre-processing of Synthetic Aperture Radar imagery.
+This project allowed me to challenge myself, using data I was unfamiliar with and software I had no prior experience with. By the end of it, I can say that I now have experience with Google Earth Engine, and the complex pre-processing of Synthetic Aperture Radar imagery, as well as interpretation. It took a lot of research up front to understand how I could attempt to do this, but I felt that being in school allowed for a lot of freedom to try and maybe even fail at something. 
 
 [Research paper](sar-wild-rice-detection/AdvRS_ResearchPaper.pdf)
+
+### Spring 2025 GIS Career Fair
+As a GIS Student Organization officer, I had the privilege of organizing and running the annual career fair at the University of Minnesota. This required less technical skills and more soft skills like leadership, adaptability, time management, teamwork and communication. There is a lot of planning and attention to detail that goes into a campus career fair. To pull it off, we needed a lot of people collaborating towards the same end result. Each person has a smaller part to play to get to the career fair and make it a really successful event where students are able to benefit, as well as local employers. 
