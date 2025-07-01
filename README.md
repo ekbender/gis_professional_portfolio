@@ -14,5 +14,5 @@ During this 2-year project with the Office of the State Auditor (OSA), my cowork
 ### Exploratory Data Analysis of Gentrification Factors in the Riverwest neighborhood of Milwaukee, WI
 For a class project, I chose to explore several key gentrification factors in my home city of Milwaukee, specifically focusing on three zip codes, located in the Riverwest neighborhood. To do this, I found data at the zip code level to compare to citywide trends. I created a database schema to structure my questions and wrote several SQL queries to gain some insights. This project consisted of the creation of an Entity Relationship diagram, loading various types of data into a SQL database and querying the data using various methods, such as sub queries, common table expressions, and joins. 
 
-[Write up](gentrification-eda-mke/final_paper.pdf) and SQL queries
+[Write up](gentrification-eda-mke/final_paper.pdf) and [SQL queries](gentrification-eda-mke/final_queries.sql)
 
