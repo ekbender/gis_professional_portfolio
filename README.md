@@ -19,4 +19,4 @@ For a class project, I chose to explore several key gentrification factors in my
 ### Wild Rice Detection using Synthetic Aperture Radar (SAR) Imagery in Northwestern Minnesota
 This project allowed me to challenge myself, using data I was unfamiliar with and software I had no prior experience with. By the end of it, I can say that I have experience with Google Earth Engine, and the complex pre-processing of Synthetic Aperture Radar imagery.
 
-Research paper
+[Research paper](sar-wild-rice-detection/AdvRS_ResearchPaper.pdf)
