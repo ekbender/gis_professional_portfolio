@@ -22,9 +22,15 @@ This project allowed me to challenge myself, using data I was unfamiliar with an
 [Research paper](sar-wild-rice-detection/AdvRS_ResearchPaper.pdf)
 
 ### Spring 2025 GIS Career Fair
-As a GIS Student Organization officer, I had the privilege of organizing and running the annual career fair at the University of Minnesota. This required less technical skills and more soft skills like leadership, adaptability, time management, teamwork and communication. There is a lot of planning and attention to detail that goes into a campus career fair. To pull it off, we needed a lot of people collaborating towards the same end result. Each person has a smaller part to play to get to the career fair and make it a really successful event where students are able to benefit, as well as local employers. 
+As a GIS Student Organization officer, I had the privilege of organizing and running the annual career fair at the University of Minnesota. This required less technical skills and more soft skills like leadership, adaptability, time management, teamwork and communication. There is a lot of planning and attention to detail that goes into a campus career fair. To pull it off, we needed a lot of people collaborating towards the same end result. Each person has a smaller part to play to get to the career fair and make it a really successful event where students are able to benefit, as well as local employers.
+
+### Minnesota Department of Health, Lead Service Lines
+For my part in this large project, I mostly worked in ArcGIS Pro to create rural water system feature classes from service areas to append to the larger application. 
+
+[LSL app](https://maps.umn.edu/LSL/)
 
 ### Literature Review: Autonomous Agents in GIS
 In this literature review paper, I walk through several definitions of "Agent," and get detailed about two common forms of agents in GIS. I really got to hone my academic writing skills, and read about topics that interested me. I learned about the essential properties of agents as laid out by many different authors throughout time, and I got to explore the similarities and differences of Artificial Life Geospatial Agents (ALGA) and Software Geospatial Agents (SGA). 
 
-[Literature review](agents-gis/Bender_CyberGIS Final Paper-1.pdf)
+[Literature review](url)
+
