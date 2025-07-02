@@ -32,5 +32,5 @@ For my part in this large project, I mostly worked in ArcGIS Pro to create rural
 ### Literature Review: Autonomous Agents in GIS
 In this literature review paper, I walk through several definitions of "Agent," and get detailed about two common forms of agents in GIS. I really got to hone my academic writing skills, and read about topics that interested me. I learned about the essential properties of agents as laid out by many different authors throughout time, and I got to explore the similarities and differences of Artificial Life Geospatial Agents (ALGA) and Software Geospatial Agents (SGA). 
 
-[Literature review](url)
+
 
